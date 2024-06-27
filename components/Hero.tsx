@@ -18,7 +18,7 @@ const Hero = () => {
         />
         <Spotlight
           className="
-        top-28 left-80 h-[80vh] w-[50vw] "
+        top-20 left-80 h-[80vh] w-[50vw] "
           fill="blue"
         />
       </div>
@@ -45,7 +45,7 @@ const Hero = () => {
           </p>
           <a href="#about">
             <MagicButton
-              title="how my work "
+              title="Know my work "
               icon={<FaLocationArrow />}
               position="right"
             />
