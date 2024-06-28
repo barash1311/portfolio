@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "public",
+		"path": "../../../../Downloads/minimalistic_portfolio-assets/public"
+	},
+	{
+		"name": "portfolio",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
